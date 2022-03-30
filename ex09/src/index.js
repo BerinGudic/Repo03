@@ -1,5 +1,7 @@
 function main(numOne, numTwo) {
     // Only change code below this line
+    numOne;
+    numTwo;
     difference = numOne - numTwo;
     // Only change code below this line
     return difference;
