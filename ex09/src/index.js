@@ -3,7 +3,7 @@ function main(numOne, numTwo) {
     numOne;
     numTwo;
     difference = numOne - numTwo;
-    // Only change code below this line
+    // Only change code above this line
     return difference;
 
 }
